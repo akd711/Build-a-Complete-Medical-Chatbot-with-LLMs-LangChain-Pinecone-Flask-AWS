@@ -7,5 +7,11 @@ Clone the repository
 Project repo: gitclonehttps://github.com/akd711/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 
 ### Create conda environment
+```bash
+conda create -n medibot python= 3.10 -y
+```
+```bash
+conda activate medibot
+
 
 
