@@ -8,10 +8,12 @@ Project repo: gitclonehttps://github.com/akd711/Build-a-Complete-Medical-Chatbot
 
 ### Create conda environment
 ```bash
-conda create -n medibot python= 3.10 -y
+conda create -n medibot python=3.10 -y
 ```
 ```bash
 conda activate medibot
 
+## Install the requirements
+pip install -r requirements.txt
 
 
